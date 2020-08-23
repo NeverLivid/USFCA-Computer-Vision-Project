@@ -4,9 +4,11 @@ This Project was completed as part of a school project at the University of San 
 
 The advising professor for this project was Shivani G. Shukla. Many thanks to her for her continuing support throughout the project!
 
-	⁃	Our Objective: Create a computer vision model capable of using street cam imagery to differentiate between cars, bicycles, motorbikes, buses and pedestrians. Additional objectives would be detecting red light runners, average speed and other similar metrics.
-	⁃	Problems Encountered: We initially struggled with getting the Keras library to operate properly in R but were able to solve the issue with help from Stack Overflow. We then noticed our model was not training properly. We had further issues due to the lack of data (images) outside of regular cars and pedestrians. Due to our timeframe constraints we settled on simply getting the model to track the number of cars and pedestrians in the data set. We did NOT optimize this model for use on a live video source due to lack of resources.
-	⁃	Final Product: We were able to complete the project with our self-imposed restrictions within the timeframe. Our final product can successfully detect cars and pedestrians in it’s dataset, and in theory from other photo data sets or potentially even in live video.
+Our Objective: Create a computer vision model capable of using street cam imagery to differentiate between cars, bicycles, motorbikes, buses and pedestrians. Additional objectives would be detecting red light runners, average speed and other similar metrics.
+
+Problems Encountered: We initially struggled with getting the Keras library to operate properly in R but were able to solve the issue with help from Stack Overflow. We then noticed our model was not training properly. We had further issues due to the lack of data (images) outside of regular cars and pedestrians. Due to our timeframe constraints we settled on simply getting the model to track the number of cars and pedestrians in the data set. We did NOT optimize this model for use on a live video source due to lack of resources.
+
+Final Product: We were able to complete the project with our self-imposed restrictions within the timeframe. Our final product can successfully detect cars and pedestrians in it’s dataset, and in theory from other photo data sets or potentially even in live video.
 
 
 The initial resources and reference for the project are here:
